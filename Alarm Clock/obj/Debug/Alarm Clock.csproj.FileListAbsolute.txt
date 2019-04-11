@@ -1,0 +1,28 @@
+c:\users\nuriyya\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.exe.config
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.exe
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\bin\Debug\Alarm Clock.pdb
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.csprojResolveAssemblyReference.cache
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.csproj.ResolveComReference.cache
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm_Clock.Properties.Resources.resources
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.csproj.GenerateResource.Cache
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.exe
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm Clock.pdb
+C:\Users\Nuriyya\documents\visual studio 2015\Projects\Alarm Clock\Alarm Clock\obj\Debug\Alarm_Clock.AlarmClock.resources
+E:\My_World\CSharp\My Projects\1.OWN PROJECTS\Alarm Clock+\Alarm Clock\bin\Debug\Alarm Clock.exe.config
+E:\My_World\CSharp\My Projects\1.OWN PROJECTS\Alarm Clock+\Alarm Clock\obj\Debug\Interop.WMPLib.dll
+E:\My_World\CSharp\My Projects\1.OWN PROJECTS\Alarm Clock+\Alarm Clock\obj\Debug\AxInterop.WMPLib.dll
+E:\My_World\CSharp\My Projects\1.OWN PROJECTS\Alarm Clock+\Alarm Clock\obj\Debug\Alarm Clock.csproj.ResolveComReference.cache
+E:\My_World\CSharp\My Projects\1.OWN PROJECTS\Alarm Clock+\Alarm Clock\obj\Debug\Alarm Clock.exe
+E:\My_World\CSharp\My Projects\1.OWN PROJECTS\Alarm Clock+\Alarm Clock\obj\Debug\Alarm Clock.pdb
+E:\My_World\CSharp\My Projects\1.OWN PROJECTS\Alarm Clock+\Alarm Clock\bin\Debug\Alarm Clock.exe
+E:\My_World\CSharp\My Projects\1.OWN PROJECTS\Alarm Clock+\Alarm Clock\bin\Debug\Alarm Clock.pdb
+E:\My_World\CSharp\My Projects\1.OWN PROJECTS\Alarm Clock+\Alarm Clock\bin\Debug\Interop.WMPLib.dll
+E:\My_World\CSharp\My Projects\1.OWN PROJECTS\Alarm Clock+\Alarm Clock\bin\Debug\AxInterop.WMPLib.dll
+E:\My_World\CSharp\My Projects\1.OWN PROJECTS\Alarm Clock+\Alarm Clock\obj\Debug\Alarm Clock.csprojResolveAssemblyReference.cache
+E:\My_World\CSharp\My Projects\1.OWN PROJECTS\Alarm Clock+\Alarm Clock\obj\Debug\Alarm_Clock.AlarmClock.resources
+E:\My_World\CSharp\My Projects\1.OWN PROJECTS\Alarm Clock+\Alarm Clock\obj\Debug\Alarm_Clock.Properties.Resources.resources
+E:\My_World\CSharp\My Projects\1.OWN PROJECTS\Alarm Clock+\Alarm Clock\obj\Debug\Alarm Clock.csproj.GenerateResource.Cache
